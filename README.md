@@ -63,9 +63,9 @@ I am a highly motivated and passionate professional with a strong background in 
 ## :email: Contact
 Thank you for taking the time to review my portfolio! If you are interested in collaborating or would like to discuss any opportunities, please feel free to reach out to me.
 
-- **Email**: [Your email address]
-- **LinkedIn**: [Link to your LinkedIn profile]
-- **Website/Blog**: [Link to your personal website or blog]
+- **Email**: pawanpyakurel3000@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/pawanpyakurel
+- **Website/Blog**: http://pawanpyakurel.com.np
 
 I look forward to connecting with you!
 
