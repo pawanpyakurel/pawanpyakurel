@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **pawanpyakurel/pawanpyakurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,26 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Portfolio README
-
 Welcome to my portfolio repository! This GitHub repository serves as a comprehensive showcase of my skills, projects, and professional experience. Instead of a traditional resume, this README provides an interactive overview of my background and highlights my key accomplishments.
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-- [Experience](#experience)
-- [Contact](#contact)
+- [About Me](#-about-me)
+- [Skills](#-skills)
+- [Projects](#-projects)
+- [Experience](#-experience)
+- [Contact](#-contact)
 
-## :wave: About Me
-I am a highly motivated and passionate professional with a strong background in [insert relevant field(s)]. I thrive in dynamic environments and enjoy tackling challenging problems. I am constantly seeking opportunities to learn and grow, and I am dedicated to delivering high-quality results.
+## 📝 About Me
+Experienced JavaScript and Dart Developer with a demonstrated history of working in the computer software industry. Skilled in Public Speaking, Flutter, React native, React.js, and Web Development. Strong engineering professional with a Bachelor's degree focused in BIM from Thames International College Kathmandu.
 
-## :computer: Skills
+## 💻 Skills
 - **Technical Skills**: [List your technical skills here, such as programming languages, frameworks, tools, etc.]
 - **Soft Skills**: [Highlight your soft skills, such as communication, teamwork, problem-solving, etc.]
 
-## :hammer_and_wrench: Projects
+## 🚀 Projects
 ### Project 1
 - **Description**: [Provide a brief description of the project, highlighting its purpose and key features]
 - **Technologies**: [List the technologies used in the project]
@@ -47,7 +44,7 @@ I am a highly motivated and passionate professional with a strong background in 
 
 [Include additional project sections as needed]
 
-## :briefcase: Experience
+## 💼 Experience
 ### Company A (Year - Year)
 - **Position**: [Your position at the company]
 - **Responsibilities**: [Outline your key responsibilities and achievements]
@@ -60,7 +57,7 @@ I am a highly motivated and passionate professional with a strong background in 
 
 [Include additional experience sections as needed]
 
-## :email: Contact
+## 📧 Contact
 Thank you for taking the time to review my portfolio! If you are interested in collaborating or would like to discuss any opportunities, please feel free to reach out to me.
 
 - **Email**: pawanpyakurel3000@gmail.com
