@@ -29,7 +29,7 @@ Experienced JavaScript and Dart Developer with a demonstrated history of working
 
 ## 💻 Skills
 - **Languages**:JavaScript, TypeScript, Dart
-- **Frameworks**:React, ReactNative, Flutter, NextJs
+- **Frameworks**: React, ReactNative, Flutter, NextJs
 - **State Management**:Redux & Saga, Bloc & Cubit, Context
 - **Logic Share**: Hooks, HOC, MonoRepo
 - **Unit Testing**:React-Testing-Library, Jest,
