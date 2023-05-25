@@ -28,8 +28,13 @@ Welcome to my portfolio repository! This GitHub repository serves as a comprehen
 Experienced JavaScript and Dart Developer with a demonstrated history of working in the computer software industry. Skilled in Public Speaking, Flutter, React native, React.js, and Web Development. Strong engineering professional with a Bachelor's degree focused in BIM from Thames International College Kathmandu.
 
 ## 💻 Skills
-- **Technical Skills**: [List your technical skills here, such as programming languages, frameworks, tools, etc.]
-- **Soft Skills**: [Highlight your soft skills, such as communication, teamwork, problem-solving, etc.]
+- **Languages**:JavaScript, TypeScript, Dart
+- **Frameworks**:React, ReactNative, Flutter, NextJs
+- **State Management**:Redux & Saga, Bloc & Cubit, Context
+- **Logic Share**: Hooks, HOC, MonoRepo
+- **Unit Testing**:React-Testing-Library, Jest,
+- **Other Technical**:Firebase & FireStore, Cloud Functions, CI/CD, Git, Figma 
+- **Soft Skills**: Team Lead, Communication, Demostration, Knowledge Sharing
 
 ## 🚀 Projects
 ### Project 1
